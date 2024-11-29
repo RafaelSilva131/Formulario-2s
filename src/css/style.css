@@ -15,7 +15,7 @@ body{
    display: flex;
    justify-content: center;
    padding: 50px;
-   border: solid 2px rgba(27, 27, 29, 0.681);
+   border: solid 2px rgba(0, 0, 0, 0.681);
    border-radius: 10px;
    background-color: rgba(35, 69, 155, 0.615);
 }
