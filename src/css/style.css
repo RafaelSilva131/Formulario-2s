@@ -15,7 +15,7 @@ body{
    display: flex;
    justify-content: center;
    padding: 50px;
-   border: solid 2px;
+   border: solid 2px rgba(27, 27, 29, 0.681);
    border-radius: 10px;
    background-color: rgba(35, 69, 155, 0.615);
 }
@@ -40,4 +40,9 @@ button{
    box-shadow: none;
 }
 
+button:hover{
+   cursor: pointer;
+   background-color: rgba(0, 255, 255, 0.719);
+   transition: 0.3s ease-in-out;
+}
 
